@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1690237769 source:c:\users\thosiba\documents\projets algo3\pointeurs\exo1tp1\entreprise.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Entreprise.h"
+
+1690237773 c:\users\thosiba\documents\projets algo3\pointeurs\exo1tp1\entreprise.h
+
+1690237704 source:c:\users\thosiba\documents\projets algo3\pointeurs\exo1tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Entreprise.h"
+

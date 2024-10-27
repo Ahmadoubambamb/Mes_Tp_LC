@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685719690 source:c:\users\thosiba\documents\projets algo2\fichiers\bulltin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1685719690 c:\users\thosiba\documents\projets algo2\fichiers\bulltin\fonction.h
+

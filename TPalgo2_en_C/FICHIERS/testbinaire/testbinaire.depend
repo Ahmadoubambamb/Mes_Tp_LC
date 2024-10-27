@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683503020 source:c:\users\thosiba\documents\projets algo2\fichiers\testbinaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1683503544 c:\users\thosiba\documents\projets algo2\fichiers\testbinaire\fonctions.h
+

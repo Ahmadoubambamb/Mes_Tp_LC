@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687613941 source:c:\users\thosiba\documents\projets algo3\pointeurs\examen15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Enseigner.h"
+
+1687555558 c:\users\thosiba\documents\projets algo3\pointeurs\examen15\enseigner.h
+
+1687613941 source:c:\users\thosiba\documents\projets algo3\pointeurs\examen15\enseigner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Enseigner.h"
+

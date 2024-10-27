@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688129012 source:c:\users\thosiba\documents\projets algo3\pointeurs\lesensemble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ensemble.h"
+
+1688001676 c:\users\thosiba\documents\projets algo3\pointeurs\lesensemble\ensemble.h
+
+1688128797 source:c:\users\thosiba\documents\projets algo3\pointeurs\lesensemble\ensemble.c
+	<stdio.h>
+	<stdlib.h>
+	"ensemble.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674127649 source:c:\users\thosiba\documents\projets algo2\recurcivite\exo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

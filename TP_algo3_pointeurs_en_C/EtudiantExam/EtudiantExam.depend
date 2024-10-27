@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1686952543 source:c:\users\thosiba\documents\projets algo3\pointeurs\etudiantexam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Etudiant.h"
+
+1686930813 c:\users\thosiba\documents\projets algo3\pointeurs\etudiantexam\etudiant.h
+
+1686951216 source:c:\users\thosiba\documents\projets algo3\pointeurs\etudiantexam\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	"Etudiant.h"
+	<string.h>
+

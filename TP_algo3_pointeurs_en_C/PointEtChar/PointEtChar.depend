@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685242939 source:c:\users\thosiba\documents\projets algo3\pointeurs\pointetchar\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1687119804 source:c:\users\thosiba\documents\projets algo3\pointeurs\sitededocs\document.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Document.h"
+
+1687103814 c:\users\thosiba\documents\projets algo3\pointeurs\sitededocs\document.h
+
+1687120777 source:c:\users\thosiba\documents\projets algo3\pointeurs\sitededocs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SITE.h"
+
+1687105054 c:\users\thosiba\documents\projets algo3\pointeurs\sitededocs\site.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Document.h"
+
+1687105601 source:c:\users\thosiba\documents\projets algo3\pointeurs\sitededocs\site.c
+	"SITE.h"
+
