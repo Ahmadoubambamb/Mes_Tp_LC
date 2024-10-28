@@ -13,7 +13,9 @@ void nombre_premier(int n, int *vrai)
 }
 
 int main()
-{ int n , true;
+{ int n , vrai;
+printf("donner un entier :");
+scanf("%d",&n);
    nombre_premier(n,&vrai);
    if(vrai)
   printf("%d est un nombre premier \n",n);
